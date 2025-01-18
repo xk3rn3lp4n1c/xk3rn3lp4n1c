@@ -2,14 +2,17 @@
 
 こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from the Philippines. Currently an IT undergraduate and a Fullstack Developer.
 
-<picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xk3rn3lp4n1c&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
-</picture>
+<div style="display: flex; flex-direction: row; justify-items: center; width: 100%; gap: 1rem;">
 
-<div style="display: grid; place-items: center; width: 100%;">
+<img style="width: 30%;" src="https://stats.dooboo.io/api/github-stats-advanced?login=xk3rn3lp4n1c"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true&v2" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true)
+</div>
 
+### 🏆 GitHub Trophies
+
+<div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
+<img src="https://stats.hyo.dev/api/github-trophies?login=xk3rn3lp4n1c" style="margin: 0 auto; display: inline-block;" alt="GitHub Trophies" />
 </div>
 
 ## 🏆 Achievements
