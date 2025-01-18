@@ -14,7 +14,7 @@
 ![Shark Badge](https://img.shields.io/badge/-Shark-blue.svg?style=flat-square&logo=github)
 ![Peas in a Pod](https://img.shields.io/badge/-Peas-green.svg?style=flat-square&logo=github)
 
-## 🛠️ Technologies and Tools
+## 🛠️ Technologies and Tools & Skills
 
 <div>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8.svg?style=flat-square&logo=react&logoColor=white" />
