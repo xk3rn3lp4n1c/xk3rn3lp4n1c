@@ -6,6 +6,7 @@
 
 ## 🏆 Achievements
 
+![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow?style=flat&logo=github)
 ![YOLO](https://img.shields.io/badge/-YOLO-orange?style=flat&logo=github) 
 ![Shark Badge](https://img.shields.io/badge/-Shark-blue?style=flat&logo=github)
 ![Peas in a Pod](https://img.shields.io/badge/-Peas-green?style=flat&logo=github)
