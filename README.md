@@ -45,6 +45,9 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 ![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow.svg?style=flat-square&logo=github)
 ![Shark Badge](https://img.shields.io/badge/-Shark-blue.svg?style=flat-square&logo=github)
 ![Peas in a Pod](https://img.shields.io/badge/-Peas-green.svg?style=flat-square&logo=github)
+
+### 🏆 Highlights
+
 ![Developer Program Member](https://img.shields.io/badge/-Developer%20Program%20Member-blue.svg?style=flat-square&logo=github)
 
 ### 📊 Github Stats
