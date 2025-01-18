@@ -2,6 +2,10 @@
 
 こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from the Philippines. Currently an IT undergraduate and a Fullstack Developer.
 
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xk3rn3lp4n1c&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
+
 <div style="display: grid; place-items: center; width: 100%;">
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true)
