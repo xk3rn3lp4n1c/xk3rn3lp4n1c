@@ -12,6 +12,3 @@
 ![Peas in a Pod](https://img.shields.io/badge/-Peas-green?style=flat&logo=github)
 
 ---
-
-## 🌟 Highlights
-- 🔧 Developer Program Member
