@@ -1,5 +1,6 @@
 # xk3rn3lp4n1c
-##### こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from the Philippines. Currently an IT undergraduate and a Fullstack Developer.
+
+こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from the Philippines. Currently an IT undergraduate and a Fullstack Developer.
 
 <div style="display: grid; place-items: center; width: 100%;">
 
@@ -74,6 +75,6 @@
 
 ## My Portfolio
 
-#### Here is my Portfolio. You can see my projects and my skills. (Under Development)
+Here is my Portfolio. You can see my projects and my skills. (Under Development)
 
 <a href="https://itsrabayadg.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%23202020.svg?&style=for-the-badge&logoColor=white" /></a>
