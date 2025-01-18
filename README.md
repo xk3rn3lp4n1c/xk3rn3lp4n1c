@@ -82,6 +82,6 @@
 
 ## My Portfolio
 
-Here is my Portfolio. You can see my projects and my skills. (Under Development)
+Here is my Portfolio. You can see my projects and my skills. (Under Modifications)
 
 <a href="https://itsrabayadg.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%23202020.svg?&style=for-the-badge&logoColor=white" /></a>
