@@ -1,8 +1,52 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xk3rn3lp4n1c.xk3rn3lp4n1c&left_color=darkgray&style=flat-square"  />
 
-# xk3rn3lp4n1c 
+# Welcome to my GitHub Profile! xk3rn3lp4n1c 
 
-こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from the Philippines. Currently an IT undergraduate and a Fullstack Developer.
+Here's my short overview:
+
+``` md
+ こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from   
+ the  Philippines. Currently an IT undergraduate and a Fullstack Developer. 
+ I am  discovering new things everyday and I am always eager to learn new things. 
+ 
+ - dev@itsrabayadg.com ---------------------------------------
+ . Name: Dann Gil Rabaya
+ . Bio: Aspiring Software Engineer. Currently a Fullstack Developer.
+ . Uptime: 22 years +
+ . Location: Pangasinan, Philippines
+ . Languages: English, Filipino
+ . Interests: Programming, Cybersecurity, Development, Gaming
+ . OS: Arch Linux
+ . Dream Location To Visit: Tokyo Japan, Shengzhen China
+ - ------------------------------------------------------------
+
+ Portfolio: curl https://itsrabayadg.com
+ LinkedIn: https://www.linkedin.com/in/-itsdg/
+ GitHub: https://github.com/xk3rn3lp4n1c
+
+```
+### 📫 Connect with me
+<a href="https://www.linkedin.com/in/-itsdg" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23007ACC.svg?style=for-the-badge&logo=in&logoColor=white" />
+</a>
+
+### 💻 My Portfolio
+
+Here is my Portfolio. You can see my projects and my skills. (Under Modifications)
+
+<a href="https://itsrabayadg.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%23202020.svg?&style=for-the-badge&logoColor=white" /></a>
+
+### 🐍 Snake eating my contributions T_T
+<img src="https://raw.githubusercontent.com/xk3rn3lp4n1c/xk3rn3lp4n1c/output/snake.svg" alt="Snake animation" />
+
+### 🏆 Achievements
+
+![YOLO](https://img.shields.io/badge/-YOLO-orange.svg?style=flat-square&logo=github)
+![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow.svg?style=flat-square&logo=github)
+![Shark Badge](https://img.shields.io/badge/-Shark-blue.svg?style=flat-square&logo=github)
+![Peas in a Pod](https://img.shields.io/badge/-Peas-green.svg?style=flat-square&logo=github)
+
+### 📊 Github Stats
 
 <div style="display: flex; flex-direction: row; justify-items: center; width: 100%; gap: 1rem;">
 
@@ -11,23 +55,7 @@
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
-<img src="https://stats.hyo.dev/api/github-trophies?login=xk3rn3lp4n1c" style="margin: 0 auto; display: inline-block;" alt="GitHub Trophies" />
-</div>
-
-<img src="https://raw.githubusercontent.com/xk3rn3lp4n1c/xk3rn3lp4n1c/output/snake.svg" alt="Snake animation" />
-
-## 🏆 Achievements
-
-![YOLO](https://img.shields.io/badge/-YOLO-orange.svg?style=flat-square&logo=github)
-![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow.svg?style=flat-square&logo=github)
-![Shark Badge](https://img.shields.io/badge/-Shark-blue.svg?style=flat-square&logo=github)
-![Peas in a Pod](https://img.shields.io/badge/-Peas-green.svg?style=flat-square&logo=github)
-
 ## 🛠️ Technologies and Tools & Skills
-
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -84,13 +112,13 @@
 ![Warp](https://img.shields.io/badge/warp-f80000?style=for-the-badge&logo=warp&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## Connect with me
 
-<a href="https://github.com/xk3rn3lp4n1c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23202020.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/-itsdg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## My Portfolio
+### 🏆 GitHub Trophies
 
-Here is my Portfolio. You can see my projects and my skills. (Under Modifications)
+![](https://github-profile-trophy.vercel.app/?username=xk3rn3lp4n1c&theme=gruvbox&no-frame=true&no-bg=true&margin-w=0&margin-h=0&title=MultiLanguage,Commits,Followers,Repositories,Stars,PullRequest,Issues,Reviews,Streak,Year,Organizations&column=8&row=1)
 
-<a href="https://itsrabayadg.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%23202020.svg?&style=for-the-badge&logoColor=white" /></a>
+<div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
+<img src="https://stats.hyo.dev/api/github-trophies?login=xk3rn3lp4n1c" style="margin: 0 auto; display: inline-block;" alt="GitHub Trophies" />
+</div>
+
