@@ -4,7 +4,7 @@
 
 Here's my short overview:
 
-``` md
+``` txt
  こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from   
  the  Philippines. Currently an IT undergraduate and a Fullstack Developer. 
  I am  discovering new things everyday and I am always eager to learn new things. 
