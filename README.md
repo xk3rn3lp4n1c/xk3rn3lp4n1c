@@ -16,6 +16,7 @@
 <div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
 <img src="https://stats.hyo.dev/api/github-trophies?login=xk3rn3lp4n1c" style="margin: 0 auto; display: inline-block;" alt="GitHub Trophies" />
 </div>
+
 <img src="https://raw.githubusercontent.com/xk3rn3lp4n1c/xk3rn3lp4n1c/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 Achievements
