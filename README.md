@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xk3rn3lp4n1c.xk3rn3lp4n1c&left_color=darkgray&style=flat-square"  />
+<img src="https://komarev.com/ghpvc/?username=xk3rn3lp4n1c&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="xk3rn3lp4n1c" /> 
 
 # Welcome to my GitHub Profile! xk3rn3lp4n1c 
 
