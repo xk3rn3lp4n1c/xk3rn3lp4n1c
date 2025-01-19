@@ -55,7 +55,7 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 <div style="display: flex; flex-direction: row; justify-items: center; width: 100%; gap: 1rem;">
 
 <img style="width: 32%;" src="https://stats.dooboo.io/api/github-stats-advanced?login=xk3rn3lp4n1c"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true&v2" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true&v12" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
 
 </div>
 
