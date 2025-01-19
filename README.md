@@ -53,7 +53,7 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 ### 📊 Github Stats
 
 <img style="width: 100%;" src="https://stats.dooboo.io/api/github-stats-advanced?login=xk3rn3lp4n1c&?v2"/>
-<img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
+<img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true&?v2" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
 
 ## 🛠️ Technologies and Tools & Skills
 
