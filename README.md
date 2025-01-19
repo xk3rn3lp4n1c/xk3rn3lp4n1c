@@ -17,7 +17,7 @@ Here's my short overview:
  . Languages: English, Filipino
  . Interests: Programming, Cybersecurity, Development, Gaming
  . OS: Arch Linux
- . Dream Location To Visit: Tokyo Japan, Shengzhen China
+ . Dream Location To Visit: Tokyo Japan, Shengzhen & Shanghai China, UK
  - ------------------------------------------------------------
 
  Portfolio: curl https://itsrabayadg.com
