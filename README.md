@@ -4,27 +4,8 @@
 
 Here's my short overview:
 
-``` txt
- こんにちは！, I'm xk3rn3lp4n1c (Dann). Aspiring Software Engineer base from   
- the  Philippines. Currently an IT undergraduate and a Fullstack Developer. 
- I am  discovering new things everyday and I am always eager to learn new things. 
- 
- - dev@itsrabayadg.com ---------------------------------------
- . Name: Dann Gil Rabaya
- . Bio: Aspiring Software Engineer. Currently a Fullstack Developer.
- . Uptime: 22 years +
- . Location: Pangasinan, Philippines
- . Languages: English, Filipino
- . Interests: Programming, Cybersecurity, Development, Gaming
- . OS: Arch Linux
- . Dream Location To Visit: Tokyo Japan, Shengzhen & Shanghai China, UK
- - ------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/11855bc7-2b9b-4775-909a-699bdd5acaed)
 
- Portfolio: curl https://itsrabayadg.com
- LinkedIn: https://www.linkedin.com/in/-itsdg/
- GitHub: https://github.com/xk3rn3lp4n1c
-
-```
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/-itsdg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23007ACC.svg?style=for-the-badge&logo=in&logoColor=white" />
