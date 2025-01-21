@@ -1,5 +1,5 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+![logo](https://github.com/user-attachments/assets/c88b0486-0e01-4dd7-9fa3-1a0f2d551ea0)
 
 <img src="https://komarev.com/ghpvc/?username=xk3rn3lp4n1c&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="xk3rn3lp4n1c" /> 
 
