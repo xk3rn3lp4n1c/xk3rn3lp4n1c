@@ -40,6 +40,8 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 
 ## 🛠️ Technologies and Tools & Skills
 
+<div style="display: flex; flex-direction: column: justify-items: center; align-items: center; text-align: center;">
+  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -95,6 +97,7 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 ![Warp](https://img.shields.io/badge/warp-f80000?style=for-the-badge&logo=warp&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+</div>
 
 
 ### 🏆 GitHub Trophies
@@ -104,4 +107,11 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 <div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
 <img src="https://stats.hyo.dev/api/github-trophies?login=xk3rn3lp4n1c" style="margin: 0 auto; display: inline-block;" alt="GitHub Trophies" />
 </div>
+
+## Support  
+Enjoying my projects? Help me keep the code brewing! 
+
+<a href="https://buymeacoffee.com/xk3rn3lp4n1c" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JoQcIJS.md.png"  alt="buymeacoffee-black-badge" style="width: 200px;">
+</a>
 
