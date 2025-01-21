@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://komarev.com/ghpvc/?username=xk3rn3lp4n1c&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="xk3rn3lp4n1c" /> 
 
 # Welcome to my GitHub Profile! xk3rn3lp4n1c 
