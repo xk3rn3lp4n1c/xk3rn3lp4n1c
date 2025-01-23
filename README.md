@@ -18,7 +18,7 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 
 <a href="https://itsrabayadg.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%23202020.svg?&style=for-the-badge&logoColor=white" /></a>
 
-### 🐍 Snake eating my contributions T_T
+### 🐍 Snake eating my contributions 😭
 <img src="https://raw.githubusercontent.com/xk3rn3lp4n1c/xk3rn3lp4n1c/output/snake.svg" alt="Snake animation" />
 
 ### 🏆 Achievements
@@ -32,9 +32,11 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 
 ![Developer Program Member](https://img.shields.io/badge/-Developer%20Program%20Member-blue.svg?style=flat-square&logo=github)
 
-### 📊 Github Stats
 
+### 📊 Github Stats
 <img style="width: 100%;" src="https://stats.dooboo.io/api/github-stats-advanced?login=xk3rn3lp4n1c&?v2"/>
+
+### Streaks
 <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=xk3rn3lp4n1c&theme=gruvbox&hide_border=true&?v2" style="margin: 0 auto; display: block;" alt="GitHub Stats" />
 
 ## 🛠️ Technologies and Tools & Skills
