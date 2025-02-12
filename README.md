@@ -102,7 +102,6 @@ Here is my Portfolio. You can see my projects and my skills. (Under Modification
 
 
 ### 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=xk3rn3lp4n1c&theme=gruvbox&no-frame=true&no-bg=true&margin-w=0&margin-h=0&title=MultiLanguage,Commits,Followers,Repositories,Stars,PullRequest,Issues,Reviews,Streak,Year,Organizations&column=8&row=1)
 
 <div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 1rem;">
