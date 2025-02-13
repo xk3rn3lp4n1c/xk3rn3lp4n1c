@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/543de807-137b-4b2a-84fa-8d18742004d5)
 <img src="https://komarev.com/ghpvc/?username=xk3rn3lp4n1c&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="xk3rn3lp4n1c" /> 
-# Welcome to my GitHub Profile! xk3rn3lp4n1c 
+# Welcome to my GitHub Profile!
 Here's my short overview:
 
 ![image](https://github.com/user-attachments/assets/11855bc7-2b9b-4775-909a-699bdd5acaed)
