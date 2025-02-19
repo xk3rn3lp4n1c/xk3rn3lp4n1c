@@ -3,11 +3,6 @@
 # Welcome to my GitHub Profile!
 Here's my short overview:
 
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/11855bc7-2b9b-4775-909a-699bdd5acaed)
 
 ### 📫 Connect with me
